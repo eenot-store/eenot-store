@@ -1,17 +1,17 @@
-s game-page
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/fon.png d//fon
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/download.png d//download
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-default.png status//default
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-develop.png status//develop
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-skoro.png status//skoro
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/icon.png icon//eenot//bashni-eenotii
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/name.png name//eenot//bashni-eenotii
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/detalis.png detalis//eenot//bashni-eenotii
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/1.png screens//1//eenot//bashni-eenotii
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/2.png screens//2//eenot//bashni-eenotii
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/3.png screens//3//eenot//bashni-eenotii
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/updates.png updates//eenot//bashni-eenotii
-s game
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/main.png eenot//bashni-eenotii
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/main.png eenot//podzemele-eenota
-l https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/main.png eenot//eenot-store
+s_game-page
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/fon.png d//fon
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/download.png d//download
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-default.png status//default
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-develop.png status//develop
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-skoro.png status//skoro
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/icon.png icon//eenot//bashni-eenotii
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/name.png name//eenot//bashni-eenotii
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/detalis.png detalis//eenot//bashni-eenotii
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/1.png screens//1//eenot//bashni-eenotii
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/2.png screens//2//eenot//bashni-eenotii
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/3.png screens//3//eenot//bashni-eenotii
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/updates.png updates//eenot//bashni-eenotii
+s_game
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/main.png eenot//bashni-eenotii
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/main.png eenot//podzemele-eenota
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/main.png eenot//eenot-store
