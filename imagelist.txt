@@ -6,6 +6,7 @@ w_2.5
 s_game-page
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/fon.png d//fon
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/download.png d//download
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/back.png d//back
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-default.png status//default
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-develop.png status//develop
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/status-skoro.png status//skoro
