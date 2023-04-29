@@ -1,0 +1,7 @@
+https://extensions.turbowarp.org/true-fantom/network.js
+https://extensions.turbowarp.org/TheShovel/ShovelUtils.js
+https://extensions.turbowarp.org/fetch.js
+https://extensions.turbowarp.org/text.js
+https://extensions.turbowarp.org/LukeManiaStudios/lmsutils.js
+https://extensions.turbowarp.org/navigator.js
+https://extensions.turbowarp.org/runtime-options.js
