@@ -11,7 +11,7 @@ l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/2.png screens//2//eenot//bashni-eenotii
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/3.png screens//3//eenot//bashni-eenotii
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/updates.png updates//eenot//bashni-eenotii
-s_game
+s_games
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/main.png eenot//bashni-eenotii
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/main.png eenot//podzemele-eenota
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/main.png eenot//eenot-store
