@@ -17,3 +17,17 @@ l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/2.png screens//2//eenot//bashni-eenotii
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/screens/3.png screens//3//eenot//bashni-eenotii
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bashni-eenotii/updates.png updates//eenot//bashni-eenotii
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/icon.png icon//eenot//podzemele-eenota
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/name.png name//eenot//podzemele-eenota
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/detalis.png detalis//eenot//podzemele-eenota
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/screens/1.png screens//1//eenot//podzemele-eenota
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/screens/2.png screens//2//eenot//podzemele-eenota
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/screens/3.png screens//3//eenot//podzemele-eenota
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/updates.png updates//eenot//podzemele-eenota
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/icon.png icon//eenot//eenot-store
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/name.png name//eenot//eenot-store
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/detalis.png detalis//eenot//eenot-store
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/screens/1.png screens//1//eenot//eenot-store
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/screens/2.png screens//2//eenot//eenot-store
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/screens/3.png screens//3//eenot//eenot-store
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/updates.png updates//eenot//eenot-store
