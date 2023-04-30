@@ -33,5 +33,5 @@ l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/updates.png updates//eenot//eenot-store
 w_2.5
 s_news
-l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/news.png news
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/news/text.png news
 w_2.5
