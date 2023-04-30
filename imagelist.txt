@@ -31,3 +31,7 @@ l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/screens/2.png screens//2//eenot//eenot-store
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/screens/3.png screens//3//eenot//eenot-store
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/updates.png updates//eenot//eenot-store
+w_2.5
+s_news
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/news.png news
+w_2.5
