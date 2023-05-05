@@ -3,6 +3,7 @@ l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/podzemele-eenota/main.png eenot//podzemele-eenota
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/eenot-store/main.png eenot//eenot-store
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen/main.png eenot//bitva-bashen
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen-remaster/main.png eenot//bitva-bashen-remaster
 w_2.5
 s_game-page
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/fon.png d//fon
@@ -39,6 +40,13 @@ l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen/screens/2.png screens//2//eenot//bitva-bashen
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen/screens/3.png screens//3//eenot//bitva-bashen
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen/updates.png updates//eenot//bitva-bashen
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen-remaster/icon.png icon//eenot//bitva-bashen-remaster
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen-remaster/name.png name//eenot//bitva-bashen-remaster
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen-remaster/detalis.png detalis//eenot//bitva-bashen-remaster
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen-remaster/screens/1.png screens//1//eenot//bitva-bashen-remaster
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen-remaster/screens/2.png screens//2//eenot//bitva-bashen-remaster
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen-remaster/screens/3.png screens//3//eenot//bitva-bashen-remaster
+l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/games/eenot/bitva-bashen-remaster/updates.png updates//eenot//bitva-bashen-remaster
 w_2.5
 s_news
 l_https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/graphics/news/text.png news

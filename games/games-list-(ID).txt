@@ -2,3 +2,4 @@ eenot//bashni-eenotii
 eenot//podzemele-eenota
 eenot//eenot-store
 eenot//bitva-bashen
+eenot//bitva-bashen-remaster
