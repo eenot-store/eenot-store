@@ -1,10 +1,6 @@
 ﻿(function (Scratch) {
   'use strict';
 
-  if (!Scratch.extensions.unsandboxed) {
-    throw new Error('EHOT Exit extension needs to be run unsandboxed');
-  }
-
   class enotex-exit {
     getInfo () {
       return {
