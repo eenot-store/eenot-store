@@ -1,5 +1,5 @@
 ﻿(function (Scratch) {
-  'use strict';
+  'use strict';1
 
   class enotex-exit {
     getInfo () {
