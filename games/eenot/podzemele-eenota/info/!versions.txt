@@ -1,0 +1,4 @@
+﻿0.6 default
+0.6 exe
+0.6 apk
+0.6 html
