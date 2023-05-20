@@ -17,3 +17,7 @@ sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/but
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/news.sprite3
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/link-settings.sprite3
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/user-menu.sprite3
+del-check 
+add-check 11
+check-wait 
+say-start 
