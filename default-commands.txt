@@ -1,0 +1,18 @@
+t-ex https://extensions.turbowarp.org/fetch.js
+t-ex https://extensions.turbowarp.org/text.js
+t-ex https://extensions.turbowarp.org/true-fantom/network.js
+t-ex https://extensions.turbowarp.org/TheShovel/ShovelUtils.js 
+t-ex https://extensions.turbowarp.org/runtime-options.js
+t-ex https://extensions.turbowarp.org/LukeManiaStudios/lmsutils.js
+t-ex https://extensions.turbowarp.org/navigator.js
+
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/games.sptite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/stage-size.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/findbar.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/find.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/game-page.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/downloading.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/images-downloader.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/buttons.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/news.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/link-settings.sprite3
