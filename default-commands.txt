@@ -16,3 +16,4 @@ sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/ima
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/buttons.sprite3
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/news.sprite3
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/link-settings.sprite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/user-menu.sprite3
