@@ -20,4 +20,5 @@ sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/use
 del-check 
 add-check 11
 check-wait 
-say-start 2
+say-start 
+6
