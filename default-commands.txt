@@ -6,7 +6,7 @@ t-ex https://extensions.turbowarp.org/runtime-options.js
 t-ex https://extensions.turbowarp.org/LukeManiaStudios/lmsutils.js
 t-ex https://extensions.turbowarp.org/navigator.js
 
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/games.sptite3
+sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/games.sprite3
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/stage-size.sprite3
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/findbar.sprite3
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/find.sprite3
