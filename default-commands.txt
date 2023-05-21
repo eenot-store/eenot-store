@@ -1,10 +1,3 @@
-t-ex https://extensions.turbowarp.org/fetch.js
-t-ex https://extensions.turbowarp.org/text.js
-t-ex https://extensions.turbowarp.org/true-fantom/network.js
-t-ex https://extensions.turbowarp.org/TheShovel/ShovelUtils.js 
-t-ex https://extensions.turbowarp.org/runtime-options.js
-t-ex https://extensions.turbowarp.org/LukeManiaStudios/lmsutils.js
-t-ex https://extensions.turbowarp.org/navigator.js
 wait 1
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/games.sprite3
 sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/stage-size.sprite3
