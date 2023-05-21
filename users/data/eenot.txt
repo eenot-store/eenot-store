@@ -1,6 +1,7 @@
-EEHOT
-eenot
-admin
-admins,developers
-Ukrain
-EEHOT Store developer
+name=EEHOT
+ID=eenot
+password=Raccoon 1
+status=admin
+category=admins,developers
+country=Ukrain
+information=EEHOT Store developer
