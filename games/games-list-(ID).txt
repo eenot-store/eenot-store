@@ -1,6 +1,6 @@
 eenot//bashni-eenotii
 eenot//podzemele-eenota
 eenot//eenot-store
-eenot//bitva-bashen
-eenot//bitva-bashen-remaster
+eenot//bashennie-bitwi
+eenot//bashennie-bitwi-remaster
 eenot//parkovka-n
