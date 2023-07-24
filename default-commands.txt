@@ -1,15 +1,15 @@
 wait 1
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/games.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/stage-size.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/findbar.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/find.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/game-page.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/downloading.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/images-downloader.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/buttons.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/news.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/link-settings.sprite3
-sprite https://raw.githubusercontent.com/Enot-Enot-test/eenot-store/main/spr/users-menu.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/games.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/stage-size.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/findbar.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/find.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/game-page.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/downloading.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/images-downloader.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/buttons.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/news.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/link-settings.sprite3
+sprite https://raw.githubusercontent.com/eenot-store/eenot-store/main/spr/users-menu.sprite3
 del-check 
 add-check 11
 check-wait 
