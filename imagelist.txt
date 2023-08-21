@@ -5,7 +5,7 @@ l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/een
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/bashennie-bitwi/main.png eenot//bashennie-bitwi
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/bashennie-bitwi-remaster/main.png eenot//bashennie-bitwi-remaster
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/parkovka-n/main.png eenot//parkovka-n
-l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mp/main.png eenot//sg-eem-4-mp
+l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mp/main.png eenot//sg-eem-4-mu
 w_2.5
 s_game-page
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/graphics/fon.png d//fon
@@ -63,6 +63,13 @@ l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mp/screens/2.png screens//2//eenot//sg-eem-4-mp
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mp/screens/3.png screens//3//eenot//sg-eem-4-mp
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mp/updates.png updates//eenot//sg-eem-4-mp
+l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mu/icon.png icon//eenot//sg-eem-4-mu
+l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mu/name.png name//eenot//sg-eem-4-mu
+l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mu/detalis.png detalis//eenot//sg-eem-4-mu
+l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mu/screens/1.png screens//1//eenot//sg-eem-4-mu
+l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mu/screens/2.png screens//2//eenot//sg-eem-4-mu
+l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mu/screens/3.png screens//3//eenot//sg-eem-4-mu
+l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mu/updates.png updates//eenot//sg-eem-4-mu
 w_2.5
 s_news
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/graphics/news/text.png news
