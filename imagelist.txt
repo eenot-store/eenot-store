@@ -5,7 +5,6 @@ l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/een
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/bashennie-bitwi/main.png eenot//bashennie-bitwi
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/bashennie-bitwi-remaster/main.png eenot//bashennie-bitwi-remaster
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/parkovka-n/main.png eenot//parkovka-n
-l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-mu/main.png eenot//sg-eem-4-mu
 l_https://raw.githubusercontent.com/eenot-store/eenot-store/main/games/eenot/sg-eem-4-an/main.png eenot//sg-eem-4-an
 w_2.5
 s_game-page
